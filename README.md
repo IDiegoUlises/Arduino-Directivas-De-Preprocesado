@@ -1,9 +1,8 @@
 # Arduino-Directivas-De-Preprocesado
 
-//Las directivas de preprocesado son las primeras que se
-//ejecutan que son de "Pre" "Procesado"
-//la mas comun de usar es #include todas las directivas
-//empiezan con "#" 
+Las directivas de preprocesado son las primeras instrucciones que se ejecutan que son de "Pre" "Procesado" la mas comun de usar es #include todas las directivas el compilador no las verifica que esten correctas es decir puedes escribir codigo que es equivocado que falta una ";" o este mal escrito y el programa puede correr porque el compilador no verifica que las instrucciones de pre-Procesado esten correctas
+
+se definen con "#" 
 
 #define //define una constante 
 
@@ -37,11 +36,3 @@
 #pragma //Compatibilidad
 
 #line //Es muy ambuiguo porque se basa en lineas para el orden
-
-void setup() {
-  Serial.begin(9600);
-}
-
-void loop() {
-  Serial.println()
-}
