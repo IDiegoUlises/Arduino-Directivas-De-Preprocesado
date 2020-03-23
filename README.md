@@ -2,7 +2,15 @@
 
 Las directivas de preprocesado son las primeras instrucciones que se ejecutan que son de "Pre" "Procesado" la mas comun de usar es #include todas las directivas el compilador no las verifica que esten correctas es decir puedes escribir codigo que es equivocado que falta una ";" o este mal escrito y el programa puede correr porque el compilador no verifica que las instrucciones de pre-Procesado esten correctas
 
-todas las directivas de Pre-Procesado empiezan con "#" 
+* el preprocesado es el primer programa invocado por el compilador
+
+* todas las directivas de PreProcesado empiezan con "#" 
+
+el proceso de compilacion sucede en tres etapas
+
+* Preprocesado
+* Compilado
+* Enlazado
 
 #define //define una constante 
 
