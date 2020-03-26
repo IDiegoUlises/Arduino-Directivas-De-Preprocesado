@@ -11,6 +11,9 @@ el proceso de compilacion sucede en tres etapas
 * Compilado
 * Enlazado
 
+¿Pregunta seria? en todo para que sirven las directivas de preprocesado ?????? buscar
+
+```c++
 #include library.h" //llama a una libreria
 
 #define //define una constante 
@@ -45,3 +48,4 @@ el proceso de compilacion sucede en tres etapas
 #pragma //Compatibilidad
 
 #line //Es muy ambuiguo porque se basa en lineas para el orden
+```
