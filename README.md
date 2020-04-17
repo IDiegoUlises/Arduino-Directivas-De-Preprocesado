@@ -3,7 +3,7 @@
 Las directivas de preprocesado son las primeras instrucciones que se ejecutan en el compilador no las verifica que esten correctas es decir puedes escribir codigo que es equivocado que falta una ";" o este mal escrito y el programa puede funcionar porque el compilador no verifica que las instrucciones de pre-Procesado esten correctas.
 
 * las instrucciones de preprocesado es el primer programa invocado por el compilador
-* todas las directivas de PreProcesado empiezan con "#" 
+* todas las directivas de Pre-procesado empiezan con "#" 
 
 el proceso de compilacion sucede en tres etapas
 
