@@ -14,3 +14,11 @@
 #endif //Para terminar un ifndef
 #pragma //Compatibilidad
 #line //Es muy ambuiguo porque se basa en lineas para el orde
+
+void setup()
+{
+}
+
+void loop()
+{
+}
