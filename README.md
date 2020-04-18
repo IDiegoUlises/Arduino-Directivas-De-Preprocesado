@@ -12,5 +12,5 @@ Las directivas de preprocesado son las primeras instrucciones que se ejecutan en
 
 **Declarar una variable**
 ```c++
-define numero 2
+#define numero 2
 ```
