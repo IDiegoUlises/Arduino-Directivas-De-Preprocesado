@@ -1,6 +1,6 @@
 # Arduino Directivas De Preprocesado
 
-Las directivas de preprocesado son las primeras instrucciones que se ejecutan puedes escribir codigo que este equivocado o que tenga errores de ortograficos, el programa puede compilar porque el compilador no verifica que las instrucciones de preprocesado esten correctas.
+* Las directivas de preprocesado son las primeras instrucciones que se ejecutan
 
 * Todas las directivas de preprocesado empiezan con # 
 
