@@ -20,5 +20,5 @@
 
 **Declarar una condicional**
 ```c++
-#if //No se si es if o es ifdef (verificar)
+#if condicional
 ```
