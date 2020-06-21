@@ -1,6 +1,7 @@
 #define //define una constante 
 #define perimetro(x,y) (2*x+2*y) //Funcion con define
 #define devolver return 0; //Sirve para devolver un valor
+#if //Es lo mismo que un if normal
 #endif //Para terminar solo un "if" simple
 #ifndef //if que verifica que "No exista" una constante
 #undef //elimina una variable y libera espacio
